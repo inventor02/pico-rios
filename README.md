@@ -1,18 +1,5 @@
-# Pi Pico SDK Project Template
+# Pi Pico RIOS
 
-**Your project goes here!** This is a template for projects that use the Raspberry Pi Pico C SDK.
+An implementation of the [RIOS](https://www.cs.ucr.edu/~vahid/rios/) for the RP2040.
 
-It contains the following:
-
-- SDK included as a Git submodule
-- CMakeLists.txt set up for a Pico executable
-- VSCode configurations for C/C++ and the OpenOCD Cortex Debugger
-- .gitignore files
-- This file!
-
-You should:
-
-- Replace `LICENSE` with a license applicable to your project (or at the very least, change the name - I do not want your copyright)
-- Run `chmod +x configure.sh` and then `./configure.sh` to set up the submodules
-- Replace this file
-- Profit!
+This is a coursework project for [COMP2215](https://ecs.soton.ac.uk).
